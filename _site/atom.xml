@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Github Blog Template</title>
+  <title>邓尚律</title>
   <meta name="renderer" content="webkit">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -23,11 +23,11 @@
   <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-   <title>Github Blog Template</title>
-   <link href="http://litaotao.github.io/atom.xml" rel="self" type="application/atom+xml"/>
-   <link href="http://litaotao.github.io" rel="alternate" type="text/html" />
-   <updated>2016-07-18T20:39:51+08:00</updated>
-   <id>http://litaotao.github.io</id>
+   <title>邓尚律</title>
+   <link href="http://dengshanglv.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="http://dengshanglv.github.io" rel="alternate" type="text/html" />
+   <updated>2016-07-18T22:14:26+08:00</updated>
+   <id>http://dengshanglv.github.io</id>
    <author>
      <name></name>
      <email></email>
