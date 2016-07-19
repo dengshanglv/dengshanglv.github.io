@@ -18,7 +18,7 @@ myblog:
   linkedin: https://www.linkedin.com/in/尚律-邓-145255124?
   github: https://github.com/dengshanglv
   email: mailto:dengshanglv@foxmail.com
-  coverimgs: []
-  postbgimg: []
+  coverimgs: [/images/3.jpg]
+  postbgimg: [/images/1/jpg]
 
 categories: [python, books]
