@@ -1,8 +1,12 @@
 ---
 layout: post
 published: true
-title: 改个名字试试
+title: To Do List
 description: keep learning
 ---  
 
-* ## dengshanglv.github.io
+## 想想最近要做的事情真不少：
+* 把site整理好，添加一些实用的功能
+* 写写最近的经历和状态，整理一下规划
+* 熟悉Linux！ wget都没搞定
+* 排名不分先后...
