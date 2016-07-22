@@ -7,3 +7,4 @@ description: to be improved ~
 
 * 推断方法
 * 应用例子
+* ref:[Tools for Statistics Inference](http://dengshanglv.github.io/files/comp-sta/Tool for statistic inference.pdf)

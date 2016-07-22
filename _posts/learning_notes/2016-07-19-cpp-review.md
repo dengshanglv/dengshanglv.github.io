@@ -10,3 +10,4 @@ description: to be improved ~
 * 构造析构-过程与函数
 * 模板
 * 函数参数类型推断
+* ref: [lecture notes](http://dengshanglv.github.io/files/cpp/00QuickStart_Bulid20150514.pdf)
