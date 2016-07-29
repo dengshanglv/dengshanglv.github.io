@@ -26,7 +26,7 @@
    <title>邓尚律</title>
    <link href="http://dengshanglv.github.io/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://dengshanglv.github.io" rel="alternate" type="text/html" />
-   <updated>2016-07-21T20:29:14+08:00</updated>
+   <updated>2016-07-22T12:43:12+08:00</updated>
    <id>http://dengshanglv.github.io</id>
    <author>
      <name></name>
@@ -35,14 +35,45 @@
 
    
    <entry>
-     <title>改个名字试试</title>
+     <title>C++ 回顾</title>
+     <link href="/cpp-review"/>
+     <updated>2016-07-19T00:00:00+08:00</updated>
+     <id>/cpp-review</id>
+     <content type="html">&lt;ul&gt;
+  &lt;li&gt;函数重载的特性&lt;/li&gt;
+  &lt;li&gt;类中运算符重载&lt;/li&gt;
+  &lt;li&gt;构造析构-过程与函数&lt;/li&gt;
+  &lt;li&gt;模板&lt;/li&gt;
+  &lt;li&gt;函数参数类型推断&lt;/li&gt;
+  &lt;li&gt;ref: &lt;a href=&quot;http://dengshanglv.github.io/files/cpp/00QuickStart_Bulid20150514.pdf&quot;&gt;lecture notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>重拾统计计算 - learning by doing</title>
+     <link href="/computaional-statistics-relearn-by-doing"/>
+     <updated>2016-07-19T00:00:00+08:00</updated>
+     <id>/computaional-statistics-relearn-by-doing</id>
+     <content type="html">&lt;ul&gt;
+  &lt;li&gt;推断方法&lt;/li&gt;
+  &lt;li&gt;应用例子&lt;/li&gt;
+  &lt;li&gt;ref:&lt;a href=&quot;http://dengshanglv.github.io/files/comp-sta/Tool for statistic inference.pdf&quot;&gt;Tools for Statistics Inference&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+   </entry>
+   
+   <entry>
+     <title>To Do List</title>
      <link href="/first-post"/>
      <updated>2016-07-19T00:00:00+08:00</updated>
      <id>/first-post</id>
-     <content type="html">&lt;ul&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;dengshanglvgithubio&quot;&gt;dengshanglv.github.io&lt;/h2&gt;
-  &lt;/li&gt;
+     <content type="html">&lt;h2 id=&quot;section&quot;&gt;想想最近要做的事情真不少：&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;把site整理好，添加一些实用的功能&lt;/li&gt;
+  &lt;li&gt;写写最近的经历和状态，整理一下规划&lt;/li&gt;
+  &lt;li&gt;熟悉Linux！ wget都没搞定&lt;/li&gt;
+  &lt;li&gt;排名不分先后…&lt;/li&gt;
 &lt;/ul&gt;
 </content>
    </entry>
